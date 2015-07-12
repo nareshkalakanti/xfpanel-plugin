@@ -30,9 +30,14 @@ To add this plugin to your internal jenkins
 
 ![Alt text](/docs/jobdef.png)	
 
-### Credits
+
+### Contributing
+Fork the project, make a change, and send a pull request!
+
+
+### Credits & Inspiration
 - Thanks to [Vikalp](https://github.com/vikalp) for the ideas & motivation.
-- Thanks to [Raj Kumar](github.com/rajdgreat007/) for consistent ui/js support & patience.
+- Thanks to [Saurav](https://github.com/sauravyadav) [Vishal](https://github.com/vishal24tuniki) & [Raj](https://github.com/rajdgreat007) for consistent support & patience.
 - Thanks to [Tilman and all contributors](https://github.com/jenkinsci/xfpanel-plugin) for starting it up :-)
 
 

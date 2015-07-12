@@ -36,8 +36,8 @@ Fork the project, make a change, and send a pull request!
 
 
 ### Credits & Inspiration
-- Thanks to [Vikalp](https://github.com/vikalp) for the ideas & motivation.
-- Thanks to [Saurav](https://github.com/sauravyadav) [Vishal](https://github.com/vishal24tuniki) & [Raj](https://github.com/rajdgreat007) for consistent support & patience.
+- Thanks to [Vikalp](https://github.com/vikalp) for the motivation.
+- Thanks to [Vishal](https://github.com/vishal24tuniki) & [Raj](https://github.com/rajdgreat007) for consistent support & patience.
 - Thanks to [Tilman and all contributors](https://github.com/jenkinsci/xfpanel-plugin) for starting it up :-)
 
 
